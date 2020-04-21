@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "cafe_order_checker/1.0.0": {
+        "runtime": {
+          "cafe_order_checker.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cafe_order_checker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
