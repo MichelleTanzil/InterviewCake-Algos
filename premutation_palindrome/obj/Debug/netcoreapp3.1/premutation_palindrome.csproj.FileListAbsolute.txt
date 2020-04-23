@@ -1,0 +1,13 @@
+C:\Users\MTanzil\Documents\premutation_palindrome\obj\Debug\netcoreapp3.1\premutation_palindrome.csprojAssemblyReference.cache
+C:\Users\MTanzil\Documents\premutation_palindrome\obj\Debug\netcoreapp3.1\premutation_palindrome.csproj.CoreCompileInputs.cache
+C:\Users\MTanzil\Documents\premutation_palindrome\obj\Debug\netcoreapp3.1\premutation_palindrome.AssemblyInfoInputs.cache
+C:\Users\MTanzil\Documents\premutation_palindrome\obj\Debug\netcoreapp3.1\premutation_palindrome.AssemblyInfo.cs
+C:\Users\MTanzil\Documents\premutation_palindrome\bin\Debug\netcoreapp3.1\premutation_palindrome.exe
+C:\Users\MTanzil\Documents\premutation_palindrome\bin\Debug\netcoreapp3.1\premutation_palindrome.deps.json
+C:\Users\MTanzil\Documents\premutation_palindrome\bin\Debug\netcoreapp3.1\premutation_palindrome.runtimeconfig.json
+C:\Users\MTanzil\Documents\premutation_palindrome\bin\Debug\netcoreapp3.1\premutation_palindrome.runtimeconfig.dev.json
+C:\Users\MTanzil\Documents\premutation_palindrome\bin\Debug\netcoreapp3.1\premutation_palindrome.dll
+C:\Users\MTanzil\Documents\premutation_palindrome\bin\Debug\netcoreapp3.1\premutation_palindrome.pdb
+C:\Users\MTanzil\Documents\premutation_palindrome\obj\Debug\netcoreapp3.1\premutation_palindrome.dll
+C:\Users\MTanzil\Documents\premutation_palindrome\obj\Debug\netcoreapp3.1\premutation_palindrome.pdb
+C:\Users\MTanzil\Documents\premutation_palindrome\obj\Debug\netcoreapp3.1\premutation_palindrome.genruntimeconfig.cache
