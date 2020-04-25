@@ -1,0 +1,13 @@
+C:\Users\MTanzil\Documents\interview_cake_algos\sort_scores\bin\Debug\netcoreapp3.1\sort_scores.exe
+C:\Users\MTanzil\Documents\interview_cake_algos\sort_scores\bin\Debug\netcoreapp3.1\sort_scores.deps.json
+C:\Users\MTanzil\Documents\interview_cake_algos\sort_scores\bin\Debug\netcoreapp3.1\sort_scores.runtimeconfig.json
+C:\Users\MTanzil\Documents\interview_cake_algos\sort_scores\bin\Debug\netcoreapp3.1\sort_scores.runtimeconfig.dev.json
+C:\Users\MTanzil\Documents\interview_cake_algos\sort_scores\bin\Debug\netcoreapp3.1\sort_scores.dll
+C:\Users\MTanzil\Documents\interview_cake_algos\sort_scores\bin\Debug\netcoreapp3.1\sort_scores.pdb
+C:\Users\MTanzil\Documents\interview_cake_algos\sort_scores\obj\Debug\netcoreapp3.1\sort_scores.csprojAssemblyReference.cache
+C:\Users\MTanzil\Documents\interview_cake_algos\sort_scores\obj\Debug\netcoreapp3.1\sort_scores.csproj.CoreCompileInputs.cache
+C:\Users\MTanzil\Documents\interview_cake_algos\sort_scores\obj\Debug\netcoreapp3.1\sort_scores.AssemblyInfoInputs.cache
+C:\Users\MTanzil\Documents\interview_cake_algos\sort_scores\obj\Debug\netcoreapp3.1\sort_scores.AssemblyInfo.cs
+C:\Users\MTanzil\Documents\interview_cake_algos\sort_scores\obj\Debug\netcoreapp3.1\sort_scores.dll
+C:\Users\MTanzil\Documents\interview_cake_algos\sort_scores\obj\Debug\netcoreapp3.1\sort_scores.pdb
+C:\Users\MTanzil\Documents\interview_cake_algos\sort_scores\obj\Debug\netcoreapp3.1\sort_scores.genruntimeconfig.cache
