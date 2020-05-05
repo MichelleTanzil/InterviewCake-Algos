@@ -20,7 +20,7 @@ namespace product_of_all_other_numbers
       productSoFar = 1;
       for (int j = intArray.Length - 1; j >= 0; j--)
       {
-        productsOfAllIntsExceptAtIndex *= productSoFar;
+        productsOfAllIntsExceptAtIndex[j] *= productSoFar;
         productSoFar *= intArray[j];
       }
 

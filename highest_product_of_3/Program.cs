@@ -52,11 +52,11 @@ namespace highest_product_of_3
 }
         static void Main(string[] args)
         {
-            Console.WriteLine(highest_product_of_3(new int[]{ 1, 2, 3, 4 }));
-            Console.WriteLine(highest_product_of_3(new int[]{ 6, 1, 3, 5, 7, 8, 2 }));
-            Console.WriteLine(highest_product_of_3(new int[]{ -5, 4, 8, 2, 3 }));
-            Console.WriteLine(highest_product_of_3(new int[]{ -10, 1, 3, 2, -10 }));
-            Console.WriteLine(highest_product_of_3(new int[]{ -5, -1, -3, -2}));
+            Console.WriteLine(HighestProductOf3(new int[]{ 1, 2, 3, 4 }));
+            Console.WriteLine(HighestProductOf3(new int[]{ 6, 1, 3, 5, 7, 8, 2 }));
+            Console.WriteLine(HighestProductOf3(new int[]{ -5, 4, 8, 2, 3 }));
+            Console.WriteLine(HighestProductOf3(new int[]{ -10, 1, 3, 2, -10 }));
+            Console.WriteLine(HighestProductOf3(new int[]{ -5, -1, -3, -2}));
         }
     }
 }

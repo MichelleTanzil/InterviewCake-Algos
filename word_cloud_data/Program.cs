@@ -16,7 +16,7 @@ namespace word_cloud_data
             }
         }
 
-        public WordCloudData(string inputString)
+        public static void WordCloudData(string inputString)
         {
             PopulateWordsToCounts (inputString);
         }
